@@ -8,8 +8,8 @@ project_id: "711537"
 
 # Forge variables and Forge url: https://files.minecraftforge.net/net/minecraftforge/forge/
 minecraft_version: "1.18.2"
-forge_version: "40.1.93"
-forge_checksum: "md5:2b0191b109152c1cb49519d9ac4b57d9"
+forge_version: "40.2.9"
+forge_checksum: "md5:1afaf11717e512062682a5ecab6aa930"
 
 # Java flags
 java_Xms: "12G"
